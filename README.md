@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MOBILE APPLICATION & WEB DEVELOPMENT.
 - 💞️ I’m looking to collaborate on SOFTWARE HOUSE.
 - 📫 How to reach me...
+- Linkedin: Fahad Hassan
 - Email: fahadfuuast2@gmail.com
 - Mobile: +923342417223 
 
