@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/fahad hassan](https://www.linkedin.com/in/fahad-hassan-44996a27a/?originalSubdomain=pk)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad hassan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahadhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghousahmed91" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
