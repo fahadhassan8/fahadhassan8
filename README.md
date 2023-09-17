@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Hassan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fahad-hassan-44996a27a/?originalSubdomain=pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghousahmed91" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fahad-hassan-44996a27a/?originalSubdomain=pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadhassan8" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fahad.hassan.5059601?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahadhassan8" height="30" width="40" /></a>
+<a href="https://instagram.com/fahad_hassan_khaan?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadhassan8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
