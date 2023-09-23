@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Hassan</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Frontend Web Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
