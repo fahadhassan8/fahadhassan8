@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/fahad-hassan-44996a27a/?originalSubdomain=pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadhassan8" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fahad.hassan.5059601?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahadhassan8" height="30" width="40" /></a>
 <a href="https://instagram.com/fahad_hassan_khaan?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadhassan8" height="30" width="40" /></a>
+<a href="#"><img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" alt="vscode logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
