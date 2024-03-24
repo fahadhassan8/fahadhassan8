@@ -1,19 +1,19 @@
 <img width="100%" min-width="100%" height="300px" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"/>
 <h1 align="center">Hi 👋, I'm Fahad Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
 <div class="d-flex" width="100%" align-items="center">
 <div width="60%">
   - 🌱 I’m currently learning **JavaScript, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://fahad-hassan-portfolio.netlify.app/](https://fahad-hassan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fahad-hassan-portfolio.netlify.app/]
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **fahadfuuast2@gmail.com**
 </div>
-<img align="right" width="35%" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding">
+<img align="right" width="35%" src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Coding">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
 
 <p align="left" style="margin-top:3rem"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadhassan8" alt="fahadhassan8" /></a> </p>
 
