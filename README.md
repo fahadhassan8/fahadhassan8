@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Fahad Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
-<div class="coding-image" >
+
 <img align="right" alt="Coding" width="350" 
 src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966"/>
- </div>
+
 🌱 I’m currently learning **JavaScript, TypeScript**
 
 👨‍💻 All of my projects are available at [Fahad-Hassan Portfolio](https://fahad-hassan-portfolio.netlify.app/)
@@ -13,10 +13,10 @@ src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d
 💬 Ask me about **JavaScript**
 
 📫 How to reach me **fahadfuuast2@gmail.com**
-
-<div class="trophy">
+</br>
+</br>
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadhassan8" alt="fahadhassan8" /></a> </p>
-</div>
 <h1 align="left">🌟 My Status :</h1>
 
 ###
@@ -51,11 +51,4 @@ src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"  />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<style>
-	.coding-image > img{
-		border-radius:1em !important;
-	.trophy{
-		height:5em !important;
-		padding:1em !important;
-		margin-top:1em !important;
-</style>
+
