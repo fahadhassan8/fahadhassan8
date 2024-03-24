@@ -1,4 +1,4 @@
-<img width="100%" min-width="100%" height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtInkKEISA09Yoz5uJqkPvhZngvSPxmMmuzJnLHPGreEfbQsHjr3unb94spTGWpBDjfNE&usqp=CAU"/>
+<img width="100%" min-width="100%" height="300px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <h1 align="center">Hi 👋, I'm Fahad Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
