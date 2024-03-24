@@ -33,11 +33,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazabaloch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=fahadhassan8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadhassan8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</br>
+<img src="https://streak-stats.demolab.com?user=fahadhassan8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="220" alt="streak graph"  />
+</br>  
+<img src="https://github-readme-stats.vercel.app/api?username=fahadhassan8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
