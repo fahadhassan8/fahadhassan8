@@ -3,19 +3,21 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
 <div class="d-flex" width="100%" align-items="center">
-<div width="60%">
-  - 🌱 I’m currently learning **JavaScript, TypeScript**
+<div width="50%">
+🌱 I’m currently learning **JavaScript, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://fahad-hassan-portfolio.netlify.app/]
+👨‍💻 All of my projects are available at https://fahad-hassan-portfolio.netlify.app/
 
-- 💬 Ask me about **JavaScript**
+💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **fahadfuuast2@gmail.com**
+📫 How to reach me **fahadfuuast2@gmail.com**
 </div>
-<img align="right" width="35%" src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Coding">
+<div width="35%>
+<img align="right" width="100%" src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Coding">
+</div>
 </div>
 
-<p align="left" style="margin-top:3rem"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadhassan8" alt="fahadhassan8" /></a> </p>
+<p align="left" style="margin-top: 3rem;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadhassan8" alt="fahadhassan8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
