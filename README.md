@@ -6,7 +6,7 @@
 <div width="50%">
 🌱 I’m currently learning **JavaScript, TypeScript**
 
-👨‍💻 All of my projects are available at https://fahad-hassan-portfolio.netlify.app/
+👨‍💻 All of my projects are available at [Fahad-Hassan Portfolio](https://fahad-hassan-portfolio.netlify.app/)
 
 💬 Ask me about **JavaScript**
 
