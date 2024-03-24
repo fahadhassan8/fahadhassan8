@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
 
-<img align="right" alt="Coding" width="350" 
+<img align="right" alt="Coding" width="370" style="border-radius:1em !important;"
 src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 🌱 I’m currently learning **JavaScript, TypeScript**
 
