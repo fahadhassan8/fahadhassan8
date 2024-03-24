@@ -1,8 +1,8 @@
 <img width="100%" min-width="100%" height="300px" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"/>
 <h1 align="center">Hi 👋, I'm Fahad Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
-<div class="d-flex">
-<div>
+<div class="d-flex" width="100%" align-items="center">
+<div width="60%">
   - 🌱 I’m currently learning **JavaScript, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://fahad-hassan-portfolio.netlify.app/](https://fahad-hassan-portfolio.netlify.app/)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fahadfuuast2@gmail.com**
 </div>
-<img align="right" width="300" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding">
+<img align="right" width="35%" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
 
