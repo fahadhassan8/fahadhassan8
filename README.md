@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
+<img max-width="100%" mai-width="100%" height="300px" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"/>
 <h1 align="center">Hi 👋, I'm Fahad Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding">
@@ -20,6 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fahad-hassan-44996a27a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahad-hassan-44996a27a/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fahad.hassan.5059601?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahadhassan8" height="30" width="40" /></a>
+<a href="https://instagram.com/fahad_hassan_khaan?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadhassan8" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
