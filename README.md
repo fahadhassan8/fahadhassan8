@@ -19,6 +19,24 @@
 
 <p align="left" style="margin-top: 3rem;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadhassan8" alt="fahadhassan8" /></a> </p>
 
+<h1 align="left">🔥   My Status :</h1>
+
+###
+<div align="center">
+	
+[![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
+<img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmedrazabaloch" /> 
+
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazabaloch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fahadhassan8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadhassan8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
