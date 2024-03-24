@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d
 
 📫 How to reach me **fahadfuuast2@gmail.com**
 
-<div style="margin-top: 3rem !important;">
+<div style="height: 5rem !important;" style="padding:1em !important;">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadhassan8" alt="fahadhassan8" /></a> </p>
 </div>
 <h1 align="left">🌟 My Status :</h1>
