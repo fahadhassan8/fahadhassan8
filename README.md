@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhassan8&label=Profile%20views&color=0e75b6&style=flat" alt="fahadhassan8" /> </p>
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966)"/>
+src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966"/>
  
 🌱 I’m currently learning **JavaScript, TypeScript**
 
