@@ -13,7 +13,7 @@
 📫 How to reach me **fahadfuuast2@gmail.com**
 </div>
 <div width="25% height="20px">
-<img  src="https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Coding">
+<img  width="100%"src="[https://camo.githubusercontent.com/45cb93e1cda74272c0e761d3ea7876b813a2aa6d533d8a84fd7a10d05fa49e8c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a6752654c5236685a6a77794278486d664c4e314156772e676966](https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif)" alt="Coding">
 </div>
 </div>
 
