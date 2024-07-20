@@ -42,6 +42,8 @@ src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo"  />	
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <a href="https://github.com/fahadhassan8"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"  /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" />
+</a> </p>
 
 
