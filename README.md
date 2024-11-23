@@ -54,6 +54,10 @@ src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
 </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="40" height="40" />
+</a>
+
 </p>
 
 
