@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="370" style="border-radius:1em !important;"
 src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
-🌱 I’m currently learning **React.Js, Next.Js**
+🌱 I’m currently learning **React.Js & Next.Js**
 
 👨‍💻 All of my projects are available at [Fahad-Hassan Portfolio](https://fahad-hassan-portfolio.netlify.app/)
 
